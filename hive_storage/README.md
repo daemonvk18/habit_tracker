@@ -1,6 +1,6 @@
 # hive_storage
 
-A new Flutter project.
+A new habit tracker flutter project.
 
 ## Getting Started
 
